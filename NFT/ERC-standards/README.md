@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Different ERC-standards of NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates the various ERC-standards for NFT.
 
 Try running some of the following tasks:
 
